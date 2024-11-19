@@ -1,5 +1,5 @@
-# Machine-Learning-projects
-# Fault Prediction in Transmission Lines Using Machine Learning  
+
+# Fault Prediction  
 
 This repository contains the implementation of a **Fault Prediction in Transmission Lines** project. The objective of the project is to predict faults in Nigeria's transmission lines using machine learning models. The project was developed and executed on **Google Colab**, making use of its computational resources and seamless integration with Google Drive for data handling.
 
