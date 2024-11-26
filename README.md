@@ -69,5 +69,5 @@ Key takeaways:
 
 ---
 
-LICEENSE MIT
+
 
